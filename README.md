@@ -1,2 +1,2 @@
-# Shark-Attack-Analysis
-Knowledge Discovery in Databases
+# Shark Attack Analysis
+Knowledge Discovery in Databases (Data Mining)
